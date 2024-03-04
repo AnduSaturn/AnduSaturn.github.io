@@ -1,0 +1,111 @@
+header{
+   display:flex;
+   justify-content:space-between;
+   background-color:rgb(47,154,161);
+   position:fixed;
+   top:0;
+   left:0;
+   width:100%;
+ }
+ 
+ 
+#logo{
+   width: 24%;
+ } 
+nav ul li
+{
+   list-style:none;
+   display:inline-flex;
+   margin:25px;
+ }
+nav ul li a{
+   text-decoration:none;
+ }
+header h1
+{
+   font-family:"Satisfy", cursive;
+   color:rgba(160,9,190,0.863);
+   margin-top:10px;
+ }
+ 
+.contenido{
+   margin-top:10%;
+   margin-left:1%;
+ }
+ 
+section{
+   display:flex;
+   background-color:
+rgb(179,129,226);
+ }
+
+.interna
+{
+   display:flex;
+   flex-direction:column;
+   justify-content:center;
+   align-items:center;
+   margin:20px;
+ }
+.interna img{
+   width:50%;
+   border-radius:5%;
+ }
+ .interna
+ h2{
+    text-align:
+ center;
+    font-family:
+ "Satisfy", cursive;
+    color:
+ rgba(160,
+ 9,
+ 190,
+ 0.863);
+ }
+
+ .interna
+ p{
+   text-align:center;
+   padding:10px;
+ }
+ .deco{
+margin-top:50px;
+text-align:center;
+ }
+
+.deco img{
+width:30%;
+height:30%;
+border-radius:100%;
+margin-bottom:10px;
+}
+.deco h2{
+   font-family:"Satisfy", cursive;
+   color:rgba(160,9,190,0.863);
+   }
+
+body p{
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#carouselExample{
+   width:550px;
+   padding:50px;
+   margin-left:36%;
+}
+
+footer p{
+   text-align:center;
+}
+ 
+ footer{
+   text-align:right;
+   margin-top:15px;
+   background-color:rgb(47,154,161);
+}
+
+ footer img{
+   width:3%;
+}
+ 
